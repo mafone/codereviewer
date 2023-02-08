@@ -1,0 +1,48 @@
+{
+    "all": {
+        "footer": "\n",
+        "min-lines": 1,
+        "max-lines": 1000,
+        "rules": [
+            "some_regex...", 
+            "another_regex...", 
+            "..."
+        ]
+    },
+    "*h": {
+        "header": "Header...",
+        "rules": [
+            "some_regex...", 
+            "another_regex...", 
+            "..."
+        ]
+    },
+    "*cpp": {
+        "rules": [
+            "some_regex...", 
+            "another_regex...", 
+            "..."
+        ]
+    },
+    "*py": {
+        "rules": [
+            "some_regex...", 
+            "another_regex...", 
+            "..."
+        ]
+    },
+    "*sh": {
+        "rules": [
+            "some_regex...", 
+            "another_regex...", 
+            "..."
+        ]
+    },
+    "BUILD": {
+        "rules": [
+            "some_regex...", 
+            "another_regex...", 
+            "..."
+        ]
+    }
+}
