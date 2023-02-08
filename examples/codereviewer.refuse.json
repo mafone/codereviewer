@@ -1,0 +1,44 @@
+{
+    "all": {
+        "rules": [
+            "some_regex...", 
+            "another_regex...", 
+            "..."
+        ]
+    },
+    "*h": {
+        "rules": [
+            "some_regex...", 
+            "another_regex...", 
+            "..."
+        ]
+    },
+    "*cpp": {
+        "rules": [
+            "some_regex...", 
+            "another_regex...", 
+            "..."
+        ]
+    },
+    "*py": {
+        "rules": [
+            "some_regex...", 
+            "another_regex...", 
+            "..."
+        ]
+    },
+    "*sh": {
+        "rules": [
+            "some_regex...", 
+            "another_regex...", 
+            "..."
+        ]
+    },
+    "BUILD": {
+        "rules": [
+            "some_regex...", 
+            "another_regex...", 
+            "..."
+        ]
+    }
+}
